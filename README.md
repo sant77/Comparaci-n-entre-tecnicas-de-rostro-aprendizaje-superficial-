@@ -1,0 +1,2 @@
+# Comparaci-n-entre-tecnicas-de-rostro-aprendizaje-superficial-
+El trabajo de grado sobre "COMPARACIÓN DE ALGORITMOS DE APRENDIZAJE SUPERFICIAL Y APRENDIZAJE PROFUNDO PARA RECONOCIMIENTO DE ROSTROS " se divide en dos partes. La parte correspondiente a  este repositorio hace énfasis en el desarrollo de las técnicas de aprendizaje superficial, entre ellas se estudiaron tres extractores de características (LBP, PCA, LDA) y tres clasificadores (KNN, SVM, Bayesiano).)    
